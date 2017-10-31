@@ -91,3 +91,6 @@ GTAGS
 
 # spl ais files
 /spl/*.ais
+
+# SI_Proj
+SI_Proj/
